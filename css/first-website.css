@@ -1,7 +1,7 @@
 html{
   background-color: #084C5A;
-  background-image: url("/home/maku/Documents/moringa-school-projects/my-first-webpage/images/top-bg-image.jpeg"),
-  url("/home/maku/Documents/moringa-school-projects/my-first-webpage/images/bg-image.jpeg");
+  background-image: url("..images/top-bg-image.jpeg"),
+  url("../images/bg-image.jpeg");
   /*background-size: cover;*/
   background-position: top,left;
   background-repeat: no-repeat,round;
