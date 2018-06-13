@@ -5,7 +5,7 @@ html{
   /*background-size: cover;*/
   background-position: top,left;
   background-repeat: no-repeat,round;
-  background-size: 100px, auto;
+  background-size: 0px, auto;
 }
 body{
   border: 1px double #77A0A5;
