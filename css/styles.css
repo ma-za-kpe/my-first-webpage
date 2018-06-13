@@ -5,7 +5,7 @@ h1{
 }
 h2 {
   font-size: 16px;
-  font-style: oblique;
+  font-style: normal;
   color: #1D6371;
   /*font-style: italic;*/
   text-align: center;
@@ -18,4 +18,10 @@ p {
 ul {
   line-height: 40px;
   background-color: #42ADBC;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
 }
