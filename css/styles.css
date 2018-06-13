@@ -4,9 +4,12 @@ h1{
   text-align: center;
 }
 h2 {
-  color: green;
-  font-style: italic;
+  font-size: 16px;
+  font-style: oblique;
+  color: #1D6371;
+  /*font-style: italic;*/
   text-align: center;
+  font-family: sans-serif;
 }
 p {
   font-family: sans-serif;
