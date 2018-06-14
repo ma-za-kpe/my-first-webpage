@@ -1,6 +1,6 @@
 # my-first-webpage
 This is my first moringa school webpage. 13/06/2018
-By Maku Pauline Mazakpe
+By Maku Pauline Mazakpe and Esther Namusisi
 ## Description
 its has a bunch of headers and paragraphs.
 ## Setup/Installation Requirements
